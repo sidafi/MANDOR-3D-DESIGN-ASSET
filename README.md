@@ -67,7 +67,7 @@ All files currently live flat in the repository root — there are no subfolders
 
 > No images are pushed to this repository yet. Once you add them, create an `images/` folder in the repo root, upload your renders there, and fill in the sections below — replace the alt text and captions with what each image actually shows.
 
-### 1. Full Isometric View
+### 1. Full Isometric View (Prototype)
 
 <p align="center">
   <img src="Asset Image/Propto Overview.png" alt="Full isometric view of the MANDOR conveyor assembly" width="70%">
