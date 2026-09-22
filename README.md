@@ -73,7 +73,7 @@ All files currently live flat in the repository root — there are no subfolders
 
 _Complete mechanical assembly of the miniature conveyor machine, showing the control panel mounted on the side of the conveyor frame._
 
-### 2. Control Panel Enclosure (Edge AI & IoT Hub)
+### 2. Control Panel Enclosure (IoT Hub)
 
 <p align="center">
   <img src="Asset Image/images2(PanelBox).png" alt="Control panel enclosure housing the ESP32 and motor driver" width="70%">
